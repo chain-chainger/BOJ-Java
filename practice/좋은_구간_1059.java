@@ -29,7 +29,7 @@ public class 좋은_구간_1059 {
 			}
 		}
 		
-		System.out.println(((n-min-1)*(max-n-1)) + (n-min-1) + (max-n-1));
+		System.out.println(((n-min-1) * (max-n-1)) + (n-min-1) + (max-n-1));
 		
 		br.close();
 		
