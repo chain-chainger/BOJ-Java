@@ -18,7 +18,7 @@ public class ¡÷ªÁ¿ß_9295 {
 			StringTokenizer st = new StringTokenizer(br.readLine());
 			int a = Integer.parseInt(st.nextToken());
 			int b = Integer.parseInt(st.nextToken());
-			sb.append(String.format("Case : %d: %d\n", i+1, a+b));
+			sb.append(String.format("Case %d: %d\n", i+1, a+b));
 		}
 		
 		System.out.print(sb);
