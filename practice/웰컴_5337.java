@@ -7,6 +7,7 @@ public class À£ÄÄ_5337 {
 		System.out.println(".  .   .");
 		System.out.println("|  | _ | _. _ ._ _  _");
 		System.out.println("|/\\|(/.|(_.(_)[ | )(/.");
+		
 	}
 
 }
